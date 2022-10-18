@@ -15,8 +15,12 @@ hard_main = [
     'ressection',
     'graft',
     'raphy',
-    #Acronyms
-    'CABG'
+    'debulking',
+    #Acronyms & Eponyms
+    'CABG',
+    'Whipple',
+    'Wertheim',
+    'Milligan'
 ]
 
 soft_main = [
